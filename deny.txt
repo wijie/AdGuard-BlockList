@@ -2,3 +2,4 @@
 ||impact-ad.jp^
 ||2mdn.net^
 ||afl.rakuten.co.jp^
+||appier.com^
