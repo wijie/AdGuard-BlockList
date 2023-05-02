@@ -4,3 +4,4 @@
 ||afl.rakuten.co.jp^
 ||appier.com^
 ||smac-ad.com^
+||exosrv.com^
