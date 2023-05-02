@@ -6,3 +6,4 @@
 ||smac-ad.com^
 ||exosrv.com^
 ||pncloudfl.com^
+||clickadilla.com^
