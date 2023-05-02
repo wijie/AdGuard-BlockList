@@ -3,9 +3,4 @@
 ||2mdn.net^
 ||afl.rakuten.co.jp^
 ||appier.com^
-||smac-ad.com^
-||exosrv.com^
-||pncloudfl.com^
-||clickadilla.com^
-||metaps-one.com^
 ||gsspat.jp^
