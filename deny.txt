@@ -4,4 +4,3 @@
 ||afl.rakuten.co.jp^
 ||appier.com^
 ||gsspat.jp^
-||amzn.to^
