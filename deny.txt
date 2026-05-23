@@ -5,4 +5,5 @@
 ||appier.com^
 ||gsspat.jp^
 ||clickadu.com^
-||magsrv.com^
+||adxadserv.com^
+||myalive.com^
